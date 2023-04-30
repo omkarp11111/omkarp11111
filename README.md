@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm OMKAR PAPADE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/127607966/235340372-b776af62-510f-4898-b0fe-e8e689330790.png'> 
+<img align='right' alt='coding' width='400' src='https://www.lambdatest.com/resources/images/news24.gif'> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarp11111&label=Profile%20views&color=0e75b6&style=flat" alt="omkarp11111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarp11111" alt="omkarp11111" /></a> </p>
